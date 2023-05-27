@@ -1,0 +1,16 @@
+/* .myCard {
+ display: flex;
+ max-width: 400px;
+ min-height: 200px;
+ outline: 1px solid red;
+}
+
+.myCard-img {
+  position: absolute;
+  max-width: inherit;
+  height: 100%;
+}
+
+.myCard-content {
+  position: relative;
+} */
